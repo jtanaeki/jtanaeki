@@ -1,6 +1,6 @@
 ### Hello World, I'm Jerome T. Anaeki! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Waving Hand">
 
-📫 How to reach me:  [![Mail Badge](https://img.shields.io/badge/-jtanaeki@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jtanaeki@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-Jerome_T._Anaeki,_Jr.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/jerome-t-anaeki-54a1a1118)
+📫 How to reach me:  [![Mail Badge](https://img.shields.io/badge/-jtanaeki@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jtanaeki@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-Jerome_T._Anaeki,_Jr.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerome-t-anaeki-54a1a1118)
 
 - 🔭 I’m currently working on learning, teaching, and practicing my coding skills, as well as advancing my software engineering career.
 - :computer: Most used line of code: `git commit -m "Initial Commit"`
