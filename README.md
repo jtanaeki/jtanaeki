@@ -2,7 +2,7 @@
 
 📫 How to reach me:  [![Mail Badge](https://img.shields.io/badge/-jtanaeki@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jtanaeki@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-Jerome_T._Anaeki,_Jr.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerome-t-anaeki-54a1a1118)
 
-- 🔭 I’m currently working on learning, teaching, and practicing my coding skills, as well as advancing my software engineering career.
+- 🔭 I’m currently learning, teaching, and practicing my coding skills, as well as advancing my software engineering career.
 - :computer: Most used line of code: `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on completing my international money transfer application.
