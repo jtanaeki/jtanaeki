@@ -13,6 +13,6 @@
 
 #### Top Technologies
 [![Angular Badge](https://img.shields.io/badge/-Angular/TypeScript-red?style=for-the-badge&labelColor=black&logo=angular&logoColor=red)](https://github.com/jtanaeki?tab=repositories&q=&type=&language=typescript)
-[![Java Badge](https://img.shields.io/badge/-Java/J2EE-orange?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](https://github.com/jtanaeki?tab=repositories&q=&type=&language=java)
+[![Java Badge](https://img.shields.io/badge/-Java/J2EE-orange?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](https://github.com/jtanaeki?tab=repositories&q=pubhub&type=&language=)
 [![Spring Badge](https://img.shields.io/badge/-Spring-darkgreen?style=for-the-badge&labelColor=black&logo=spring&logoColor=darkgreen)](#)
 [![C# Badge](https://img.shields.io/badge/-C_%23/ASP.NET-blue?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=blue)](https://github.com/jtanaeki?tab=repositories&q=&type=&language=asp.net)
